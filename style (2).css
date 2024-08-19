@@ -1,0 +1,13 @@
+body {
+  color: white;
+  background-color: black;
+  margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(14, 124, 16);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(162, 1, 1);
+}
+
